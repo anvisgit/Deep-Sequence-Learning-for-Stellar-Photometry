@@ -1,4 +1,3 @@
-#Attention-LSTM for Astronomical Time Series
 An Attention-based Bidirectional LSTM model for predicting stellar light curves generated from synthetic astronomical data.
 
 ## Features
